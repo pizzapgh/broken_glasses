@@ -4076,6 +4076,7 @@ cite {
       -ms-flex-align: center;
           align-items: center;
   background-color: #d8d8d8;
+  background-color: red;
   z-index: 1;
 }
 
