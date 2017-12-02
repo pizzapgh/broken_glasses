@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+  {% include header.html %}
+
+  {% include banner.html %}
+
+  <main class="page-content" aria-label="Content">
+  <section class="chapters cf">
+      <div class="wrapper">
+        <div class="flex">
+          <img class="quote" src="{{site.baseurl}}/assets/img/quotes.svg" alt="">
+          <h1 class="intro">If you have <span class="bold">passion</span> for anything, then you <span class="bold">nerd</span>  out for it, and you wear the <span class="bold">Broken Glasses</span>.</h1>
+        </div>
+      {{ content }}
+      </div>
+  </section>
+  </main>
+  {% include pagination.html %}
+    {% include about-1.html %}
+
+  {% include footer.html %}
