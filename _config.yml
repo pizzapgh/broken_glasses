@@ -8,19 +8,19 @@ collections:
   uploads:
     title: Uploads
     output: true
-logo:
+logo: 
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description. '
 permalink: ":title/"
-baseurl:
-url:
+baseurl: 
+url: 
 video: poop-movie.mp4
-banner-title:
-banner-desc:
+banner-title: 
+banner-desc: 
 author-pic: face.jpg
-author-name:
-about-author:
+author-name: 
+about-author: 
 email: brokenglassesgaming@gmail.com
 phone: "(496)-169-6557"
 website: https://www.youtube.com/brokenglassesgaming
@@ -28,12 +28,12 @@ youtube_url: https://www.youtube.com/brokenglassesgaming
 google_url: https://plus.google.com/u/0/101913696409118958825
 twitter_url: https://twitter.com/BrokeGlasses
 instagram_url: https://www.instagram.com/broken_glasses_gaming/
-pinterest_url:
-dribbble_url:
+pinterest_url: 
+dribbble_url: 
 facebook_url: https://www.facebook.com/BrokenGlassesEntertainment/
 discus_identifier: mr-brown
-mailchimp:
-analytics:
+mailchimp: 
+analytics: 
 mail_url: mailto:brokenglassesgaming@gmail.com
 paginate: 12
 paginate_path: "/page:num/"
@@ -48,4 +48,4 @@ exclude:
 - gulpfile.js
 - package.json
 - yarn.lock
-Field name:
+Field name: 
