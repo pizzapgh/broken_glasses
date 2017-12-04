@@ -29,3 +29,15 @@ The best partnerships however, the ones that are the most true, are the ones whe
 Itch.io is a platform I feel often gets overlooked. As an open market it's susceptible to hundreds of half-assed video games that get added on a daily basis (no doubt prompting the recent announcment of [Itch.io Selects](https://itch.io/blog/15563/announcing-itchio-selects-curated-bundle-of-some-of-our-favorite-games)) so naturally it's going to earn some criticism. Itch.io's greatest strength however is providing an open market where developers can debut a new idea or demo to an audience of testers at absolutely no cost to anyone involved. Because of this the platform acts as a sort of hybrid mix of an online storefront and independent research center. Embracing itself as an open market designed for experimentation is what, in my mind, gives Itch.io a pass over other storefronts like Steam. In the end you can choose to write Itch off as a dumping ground for garbage or you can remember that a diamond is only as valuable as it is because of the rough it's buried in. 
 
 [5Horsemen Games](http://www.5horsemengames.com/)' *Unspokin* is decidedly not a diamond. It's more like quartz; a bit rough on the outside but absolutely beautiful on the inside. It tells the story of a small girl who befriends a very large animal and though far from "finished" in both story and game play, there's enough here that could help it become as memorable a game about love and friendship as any other before it. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5dvW6MBT6TI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+*Unspokin* takes place in the world of Arden: a series of floating islands suspended by great metal chains that disappear into misty clouds, obscuring their anchors from the people below. The land is lush and beautiful but in danger. Deforestation caused by mass industrialization has rendered much of Arden inhospitable. The localized cutting down and burning of its forests has made the air toxic with carbon monoxide unfortunately causing irreperable brain damage to a small girl, Cairenn, rendering her aphasic (unable to understand or expresss speech). 
+
+Despite her disability, Cairenn decides to do something and attempt to restore life to her homeland utilizing her unique connection to the environment. This eventually brings her to Killian, a blind bear with an unusual scar on his face. From here the game is about the  symbiotic relationship that forms out of their inherent need for one another as a result of their shared trauma.  
+
+![unspokin-352e42.png](/uploads/unspokin-352e42.png)
+
+
+
+
