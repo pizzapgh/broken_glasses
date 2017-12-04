@@ -20,4 +20,8 @@ Navi on the other hand is a character who lives on not only due to her overeager
 
 Elizabeth and Navi are examples of partnerships with the player that just worked, absolutely nailing the most important aspect of their roles which is to be a benefit not a detriment. Their success in this could rest on something as major as providing integral plot points or as seemingly minor as just being a friend in a lonely world. 
 
+The best partnerships however, are the ones where one cannot go on without the other. 
+
 ![1501513670_source.gif](/uploads/1501513670_source.gif)
+
+## Needles in the Haystack, Diamonds in the Rough, Hidden Gems.......You get the Point
