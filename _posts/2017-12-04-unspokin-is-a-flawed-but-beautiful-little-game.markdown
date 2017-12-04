@@ -48,7 +48,15 @@ The game is only about an hour or so in length so you meet Killian right from th
 
 The core of the game's message is the bond between Cairenn and Killian and maintaining the trust between them. To illustrate this there are scripted moments in game where he might lose faith in Cairenn perhaps because he stepped in a trap or because he was lead through a thorn bush. Restoring his trust requires feeding him fish that are scattered seemingly arbitrarily around the area. There's no meter by which to gauge Killian's confidence in you. His appreciation for the fish and stroking of his fur (which appears to only be a bit of contextual role play) is displayed via audio and visual cues. 
 
-This system of maintaining trust unfortunately feels too gamey to me and I would've rather seen game play that capitalized on what would surely be an inherently dangerous relationship between man and animal. I think of Ang Lee's film *Life of Pi* in which a shipwrecked teenager must slowly build trust between himself and a full grown Bengal tiger in the middle of the ocean. Much of the film is the poor boy trying not to be eaten as he attempts to establish dominance and I'd love to see a similar back and forth play out in games like *Unspokin* where man and creature exist in an uneasy mutual dependency. 
+![rtyirki.png](/uploads/rtyirki.png)
+
+This system of maintaining trust unfortunately feels too gamey to me and I would've rather seen game play that more naturally capitalized on what would surely be an inherently dangerous relationship between man and animal. I think of Ang Lee's film *Life of Pi* in which a shipwrecked teenager must slowly build trust between himself and a full grown Bengal tiger in the middle of the ocean. Much of the film is the poor boy trying not to be eaten as he attempts to establish dominance and I'd love to see a similar back and forth play out in games like *Unspokin* where man and creature exist in an uneasy mutual dependency. 
+
+
+
+The debate as to whether or not it's best for your game to simulate all aspects of an animal's behavioral personality is an interesting one, most recently brought up with the release of Team Ico's *The Last Guardian*. 
+
+
 
 
 
