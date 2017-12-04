@@ -14,7 +14,6 @@ Some of the most memorable faces in gaming aren't necessarily those controlled b
 
 To be so evocative so as to be remembered for years to come can be the result of who they were or what their relevance was to how their game played. When the topic of indelible supporting characters arises I always lean towards Elizabeth, wonderfully brought to life by actress Courtnee Draper. Elizabeth is an example of of the former, of a character I remember because of who they were. The combination of Ms. Draper's performance and impressive motion capture was strong enough to reserve a special spot in my memory and has held it ever since I finished the game in 2013. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XqroDK7ZVEo?t=43" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XqroDK7ZVEo#t=0m43s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
