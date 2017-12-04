@@ -66,6 +66,12 @@ That's what I found most interesting about Unspokin: its world. The islands of A
 
 5Horsemen Games offers a plethora of questions whose answers ***could*** be found in a more fleshed out offering. As this was just a taste of (hopefully) things to come, I'm excited to think about the possibilities. *Unspokin* is a fine start to what could become an emotionally engaging tale of a delicate partnership between a girl and a wild animal that mirrors the equally delicate balance between man and nature existing all around them. 
 
+You play the game for yourself right [here](https://5horsemengames.itch.io/unspokin). 
+
+
+
+
+
 
 
 
