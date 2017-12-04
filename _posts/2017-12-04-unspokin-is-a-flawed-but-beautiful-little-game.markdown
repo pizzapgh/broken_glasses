@@ -38,6 +38,10 @@ Despite her disability, Cairenn decides to do something and attempt to restore l
 
 ![unspokin-352e42.png](/uploads/unspokin-352e42.png)
 
+The game's story possseses the same sort of heart I'd expect from something out of Studio Ghibli which was actually what initially attracted me to the project. Hayao Miyazaki's films always possess powerful examples of friendship and love within the fantasy worlds he creates, with those relationships falling under strain by those who exist "outside" of the emotional connections that are felct between his characters. The parallels to Unspokin and its man vs nature narrative were easy to draw.  
+
+![tumblr_mdn555f5bT1r3vopmo1_500.gif](/uploads/tumblr_mdn555f5bT1r3vopmo1_500.gif)
+
 
 
 
