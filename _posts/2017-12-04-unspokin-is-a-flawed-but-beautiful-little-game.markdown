@@ -16,4 +16,6 @@ To be so evocative so as to be remembered for years to come can be the result of
 
 <iframe type="text/html" frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/XqroDK7ZVEo?start=43" allowfullscreen></iframe>
 
+Navi on the other hand is a character who lives on not only due to her overeager and oft annoying curiosity, but to her impact on game play. Z-targeting revolutionized the way developers approach real time 3D melee combat and its association with Navi ensured her place within the hearts and minds of gamers everwhere. We remember to listen because she taught us to kick ass. 
+
 
