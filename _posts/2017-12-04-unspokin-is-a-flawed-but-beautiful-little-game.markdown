@@ -60,10 +60,11 @@ It's a question of what you want players to remember about your game: the relati
 
 ![bioshock_feature.jpeg](/uploads/bioshock_feature.jpeg)
 
-That's what I found most interesting about Unspokin: its world. The islands of Arden are beautiful and witnessing the great chains that suspend them come into view as I crossed a long expanse made me reminisce about similar moments I experienced in Santa Monica Studios' epic *God of War 2*. 
+That's what I found most interesting about Unspokin: its world. The islands of Arden are beautiful and witnessing the great chains that suspend them come into view as I crossed a long expanse made me reminisce about similar moments I experienced in Santa Monica Studios' epic *God of War 2*. Where are those chains anchored? Who is cutting down the forests and operating the machinery? Where have all the other displaced inhabitants of Arden gone? What is the nature of Cairenn's power? Who or what blinded Killian and scarred his face? 
 
+![unspokin-04_orig.png](/uploads/unspokin-04_orig.png)
 
-
+5Horsemen Games offers a plethora of questions whose answers ***could*** be found in a more fleshed out offering. As this was just a taste of (hopefully) things to come, I'm excited to think about the possibilities. *Unspokin* is a fine start to what could become an emotionally engaging tale of a delicate partnership between a girl and a wild animal that mirrors the equally delicate balance between man and nature existing all around them. 
 
 
 
