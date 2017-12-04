@@ -58,6 +58,8 @@ Granted, Trico has no real world counterpart but hey.
 
 It's a question of what you want players to remember about your game: the relationship between your characters and the world they inhabit or your game play? Both are important of course and there are rare times when they're on equal ground but more often than not I find that one side merely compliments the other. Again I'll reference Bioshock Infinite as a title I remember fondly not because of its game play (which was great yet arguably the weakest of the franchise thus far) but for the absolutely stunning city of Columbia and the relationship between Booker Dewitt and Elizabeth. 
 
+![bioshock_feature.jpeg](/uploads/bioshock_feature.jpeg)
+
 
 
 
