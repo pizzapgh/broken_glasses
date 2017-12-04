@@ -18,4 +18,6 @@ To be so evocative so as to be remembered for years to come can be the result of
 
 Navi on the other hand is a character who lives on not only due to her overeager and oft annoying curiosity, but to her impact on game play. Z-targeting revolutionized the way developers approach real time 3D melee combat and its association with Navi ensured her place within the hearts and minds of gamers everwhere. We remember to listen because she taught us to kick ass. 
 
+Elizabeth and Navi are examples of partnerships with the player that just worked, absolutely nailing the most important aspect of their roles which is to be a benefit not a detriment. Their success in this could rest on something as major as providing integral plot points or as seemingly minor as just being a friend in a lonely world. 
 
+![1501513670_source.gif](/uploads/1501513670_source.gif)
