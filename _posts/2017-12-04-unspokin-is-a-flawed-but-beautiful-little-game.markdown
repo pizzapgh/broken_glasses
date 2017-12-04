@@ -38,9 +38,25 @@ Despite her disability, Cairenn decides to do something and attempt to restore l
 
 ![unspokin-352e42.png](/uploads/unspokin-352e42.png)
 
-The game's story possseses the same sort of heart I'd expect from something out of Studio Ghibli which was actually what initially attracted me to the project. Hayao Miyazaki's films always possess powerful examples of friendship and love within the fantasy worlds he creates, with those relationships falling under strain by those who exist "outside" of the emotional connections that are felct between his characters. The parallels to Unspokin and its man vs nature narrative were easy to draw.  
+### Getting Lost in a Fairy Tale
+
+The game's story possseses the same sort of heart I'd expect from something out of Studio Ghibli which was actually what initially attracted me to the project. Hayao Miyazaki's films always possess powerful examples of friendship and love within the fantasy worlds he creates, with those relationships falling under strain by those who exist "outside" of the emotional connections that are felt between his characters. The parallels to Unspokin and its man vs nature narrative were easy to draw.  
 
 ![tumblr_mdn555f5bT1r3vopmo1_500.gif](/uploads/tumblr_mdn555f5bT1r3vopmo1_500.gif)
+
+The game is only about an hour or so in length so you meet Killian right from the get go. As *Unspokin* is more of a proof of concept than a full game in the strongest sense of the term, the mechanical aspects of the relationship between you two are explored on a fairly rudimentary level. You whistle and Killian will heed your call. He can knock over heavy objects and weigh down pressure plates while you can free him from bear traps should he need it and platform around a tight area in order to activate a far off lever. The game won't ever ask much more from you than that. 
+
+The core of the game's message is the bond between Cairenn and Killian and maintaining the trust between them. To illustrate this there are scripted moments in game where he might lose faith in Cairenn perhaps because he stepped in a trap or because he was lead through a thorn bush. Restoring his trust requires feeding him fish that are scattered seemingly arbitrarily around the area. There's no meter by which to gauge Killian's confidence in you. His appreciation for the fish and stroking of his fur (which appears to only be a bit of contextual role play) is displayed via audio and visual cues. 
+
+![rtyirki.png](/uploads/rtyirki.png)
+
+This system of maintaining trust unfortunately feels too gamey to me and I would've rather seen game play that more naturally capitalized on what would surely be an inherently dangerous relationship between man and animal. I think of Ang Lee's film *Life of Pi* in which a shipwrecked teenager must slowly build trust between himself and a full grown Bengal tiger in the middle of the ocean. Much of the film is the poor boy trying not to be eaten as he attempts to establish dominance and I'd love to see a similar back and forth play out in games like *Unspokin* where man and creature exist in an uneasy mutual dependency. 
+
+
+
+The debate as to whether or not it's best for your game to simulate all aspects of an animal's behavioral personality is an interesting one, most recently brought up with the release of Team Ico's *The Last Guardian*. 
+
+
 
 
 
