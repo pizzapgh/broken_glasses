@@ -23,3 +23,5 @@ Elizabeth and Navi are examples of partnerships with the player that just worked
 The best partnerships however, are the ones where one cannot go on without the other. 
 
 ![1501513670_source.gif](/uploads/1501513670_source.gif)
+
+## Needles in the Haystack, Diamonds in the Rough, Hidden Gems.......You get the Point
