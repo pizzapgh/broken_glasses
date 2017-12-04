@@ -20,8 +20,12 @@ Navi on the other hand is a character who lives on not only due to her overeager
 
 Elizabeth and Navi are examples of partnerships with the player that just worked, absolutely nailing the most important aspect of their roles which is to be a benefit not a detriment. Their success in this could rest on something as major as providing integral plot points or as seemingly minor as just being a friend in a lonely world. 
 
-The best partnerships however, are the ones where one cannot go on without the other. 
+The best partnerships however, the ones that are the most true, are the ones where one cannot go on without the other. 
 
 ![1501513670_source.gif](/uploads/1501513670_source.gif)
 
 ## Needles in the Haystack, Diamonds in the Rough, Hidden Gems.......You get the Point
+
+Itch.io is a platform I feel often gets overlooked. As an open market it's susceptible to hundreds of half-assed video games that get added on a daily basis (no doubt prompting the recent announcment of [Itch.io Selects](https://itch.io/blog/15563/announcing-itchio-selects-curated-bundle-of-some-of-our-favorite-games)) so naturally it's going to earn some criticism. Itch.io's greatest strength however is providing an open market where developers can debut a new idea or demo to an audience of testers at absolutely no cost to anyone involved. Because of this the platform acts as a sort of hybrid mix of an online storefront and independent research center. Embracing itself as an open market designed for experimentation is what, in my mind, gives Itch.io a pass over other storefronts like Steam. In the end you can choose to write Itch off as a dumping ground for garbage or you can remember that a diamond is only as valuable as it is because of the rough it's buried in. 
+
+[5Horsemen Games](http://www.5horsemengames.com/)' *Unspokin* is decidedly not a diamond. It's more like quartz; a bit rough on the outside but absolutely beautiful on the inside. It tells the story of a small girl who befriends a very large animal and though far from "finished" in both story and game play, there's enough here that could help it become as memorable a game about love and friendship as any other before it. 
