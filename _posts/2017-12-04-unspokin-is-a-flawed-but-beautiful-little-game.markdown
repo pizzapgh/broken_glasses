@@ -52,9 +52,15 @@ The core of the game's message is the bond between Cairenn and Killian and maint
 
 This system of maintaining trust unfortunately feels too gamey to me and I would've rather seen game play that more naturally capitalized on what would surely be an inherently dangerous relationship between man and animal. I think of Ang Lee's film *Life of Pi* in which a shipwrecked teenager must slowly build trust between himself and a full grown Bengal tiger in the middle of the ocean. Much of the film is the poor boy trying not to be eaten as he attempts to establish dominance and I'd love to see a similar back and forth play out in games like *Unspokin* where man and creature exist in an uneasy mutual dependency. 
 
+The debate as to whether or not it's best for your game to simulate all aspects of an animal's behavioral personality is an interesting one, most recently brought up with the release of Team Ico's *The Last Guardian*. That game received criticism due to the star beasty Trico not necessarily always obeying the player's commands, resulting in a bit of a random element in the game's puzzles. Personally I place more value on an experience with an animal companion who demonstrates the same sort of behavorial complexity as a real world counterpart than I do on an experience where they always do what I intstruct without question. It results in a stronger bond if occasionally I get pissed off at the cantankery of my animal companion. 
+
+Granted, Trico has no real world counterpart but hey. 
+
+It's a question of what you want players to remember about your game: the relationship between your characters and the world they inhabit or your game play? Both are important of course and there are rare times when they're on equal ground but more often than not I find that one side merely compliments the other. Again I'll reference Bioshock Infinite as a title I remember fondly not because of its game play (which was great yet arguably the weakest of the franchise thus far) but for the absolutely stunning city of Columbia and the relationship between Booker Dewitt and Elizabeth. 
+
+![bioshock_feature.jpeg](/uploads/bioshock_feature.jpeg)
 
 
-The debate as to whether or not it's best for your game to simulate all aspects of an animal's behavioral personality is an interesting one, most recently brought up with the release of Team Ico's *The Last Guardian*. 
 
 
 
