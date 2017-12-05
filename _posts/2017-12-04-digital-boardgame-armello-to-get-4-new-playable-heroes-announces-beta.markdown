@@ -1,5 +1,5 @@
 ---
-title: Digital Boardgame Armello to Get 4 New Playable Heroes, Announces Beta
+title: Digital Boardgame Armello to Get New Character DLC, Announces Beta
 date: 2017-12-04 03:26:00 Z
 image: "/uploads/Armello.png"
 ---
