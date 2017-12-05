@@ -13,4 +13,4 @@ Australia-based studio [League of Geeks](http://leagueofgeeks.com/) announced on
 
 Mixing RPG questing with card playing and dice rolling mechanics amidst gorgeously animated visuals Don Bluth would be proud of, Armello has been one of my personal favorite go-to multiplayer games since it originally launched in September of 2015. 
 
-The game didn't set the world on fire but since its release it's developed an ***extremely*** consistent and passionate player base.
+The game didn't set the world on fire but since its release it's developed an ***extremely*** consistent and passionate player base who jump at every available update. 
