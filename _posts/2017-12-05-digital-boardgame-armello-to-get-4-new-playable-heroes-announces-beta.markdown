@@ -11,6 +11,8 @@ Australia-based studio [League of Geeks](http://leagueofgeeks.com/) announced on
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Four new Heroes are approaching Armello, and we would like to graciously invite you to greet them.<br><br>From the December 12th - 13th (PT), the Rivals Beta Event will be live on Steam and you can try them for free.<br><br>More info - <a href="https://t.co/DHVTzCkvQS">https://t.co/DHVTzCkvQS</a> <a href="https://t.co/XLZOHNHe4V">pic.twitter.com/XLZOHNHe4V</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/937847835533369345?ref_src=twsrc%5Etfw">December 5, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Adding to the excitement of the announcement is the mention of a beta period where the new heroes will be available to everyone for free beginning December 11th at 3:00 PM PST and ending December 13th also at 3:00 PM PST. This is an extremely generous move considering the ultimate outcome is for these heroes to be paid DLC however the 48 hour window is in the middle of the week. It may prove difficult for those with tight work schedules to be able to set aside time for it, though having a free trial period at all is still gracious. 
+
 Mixing tabletop RPG questing with card playing and dice rolling mechanics amidst gorgeously animated visuals Don Bluth would be proud of, Armello has been one of my personal favorite go-to multiplayer games since it originally launched in September of 2015. 
 
 The game didn't set the world on fire but since its release it's developed an ***extremely*** consistent and passionate player base who jump at every available update. 
