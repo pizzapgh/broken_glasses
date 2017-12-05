@@ -21,4 +21,4 @@ The game didn't set the world on fire but since its release it's developed an **
 
 ![CraftyOrderlyAfricanmolesnake.gif](/uploads/CraftyOrderlyAfricanmolesnake.gif)
 
-Armello is available on Steam, Xbox One, PS4, Mac, Linux and, if you're currently residing in Australia, your mobile phone which is [blowing my mind ](<iframe width="1280" height="720" src="https://www.youtube.com/embed/D1PQ8rCYZNM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>)right now. 
+Armello is available on Steam, Xbox One, PS4, Mac, Linux and, if you're currently residing in Australia, your mobile phone which is [blowing my mind](https://www.youtube.com/watch?v=D1PQ8rCYZNM) right now. 
