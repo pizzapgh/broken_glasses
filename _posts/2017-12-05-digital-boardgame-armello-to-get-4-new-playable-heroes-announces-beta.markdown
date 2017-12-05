@@ -6,7 +6,7 @@ image: "/uploads/Armello.png"
 
 # It's a Super Mutant Quadrupedal Battle Royale! 
 
-Australia-based studio [League of Geeks](http://leagueofgeeks.com/) announced on Twitter today that four new heroes would be joining the roster of playable characters in their digital boardgame, Armello. 
+Australia-based studio [League of Geeks](http://leagueofgeeks.com/) announced on Twitter today that four new heroes would be joining the roster of playable characters in their online digital boardgame, Armello. 
 
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Four new Heroes are approaching Armello, and we would like to graciously invite you to greet them.<br><br>From the December 12th - 13th (PT), the Rivals Beta Event will be live on Steam and you can try them for free.<br><br>More info - <a href="https://t.co/DHVTzCkvQS">https://t.co/DHVTzCkvQS</a> <a href="https://t.co/XLZOHNHe4V">pic.twitter.com/XLZOHNHe4V</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/937847835533369345?ref_src=twsrc%5Etfw">December 5, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -20,3 +20,5 @@ Mixing tabletop RPG questing with card playing and dice rolling mechanics amidst
 The game didn't set the world on fire but since its release it's developed an ***extremely*** consistent and passionate player base who jump at every available update. The amount of support the game has received over the last two years is impressive and so I, along with everyone else in the community, anxiously await the reveal of the next posse of woodland critters with whom we will engage in glorious combat.  
 
 ![CraftyOrderlyAfricanmolesnake.gif](/uploads/CraftyOrderlyAfricanmolesnake.gif)
+
+Armello is available on Steam, Xbox One, PS4, Mac, Linux and, if you're currently residing in Australia, your mobile phone which is [blowing my mind ](<iframe width="1280" height="720" src="https://www.youtube.com/embed/D1PQ8rCYZNM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>)right now. 
