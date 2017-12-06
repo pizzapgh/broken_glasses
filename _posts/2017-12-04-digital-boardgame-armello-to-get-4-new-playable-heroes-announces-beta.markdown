@@ -23,7 +23,7 @@ The game didn't set the world on fire but since its release it's developed an **
 
 Armello is available on Steam, Xbox One, PS4, Mac, Linux and, if you're currently residing in Australia, your mobile phone which is [blowing my mind](https://www.youtube.com/watch?v=D1PQ8rCYZNM) right now. 
 
-UPDATE: As per usual league of Geeks have begun to slowly unveil images of the new heroes coming to the game starting with Hargrave, Thunder Earl. 
+UPDATE 12/16/2017 : As per usual league of Geeks have begun to slowly unveil images of the new heroes coming to the game starting with Hargrave, Thunder Earl. 
 
 His look alone makes him my favorite member of the game's rabbit clan. His weapon appears to be a pole-arm mounted cannon and I absolutely cannot wait to see how he attacks in battle. 
 
