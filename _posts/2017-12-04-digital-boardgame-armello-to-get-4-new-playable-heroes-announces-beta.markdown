@@ -22,3 +22,10 @@ The game didn't set the world on fire but since its release it's developed an **
 ![CraftyOrderlyAfricanmolesnake.gif](/uploads/CraftyOrderlyAfricanmolesnake.gif)
 
 Armello is available on Steam, Xbox One, PS4, Mac, Linux and, if you're currently residing in Australia, your mobile phone which is [blowing my mind](https://www.youtube.com/watch?v=D1PQ8rCYZNM) right now. 
+
+UPDATE: As per usual league of Geeks have begun to slowly unveil images of the new heroes coming to the game starting with Hargrave, Thunder Earl. 
+
+His look alone makes him my favorite member of the game's rabbit clan. His weapon appears to be a pole-arm mounted cannon and I absolutely cannot wait to see how he attacks in battle. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enter Hargrave, Thunder Earl.<br><br>The Rivals Hero Pack launches in Armello, December 20th. <a href="https://t.co/IpMd70K5P6">pic.twitter.com/IpMd70K5P6</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/938438140485914625?ref_src=twsrc%5Etfw">December 6, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
