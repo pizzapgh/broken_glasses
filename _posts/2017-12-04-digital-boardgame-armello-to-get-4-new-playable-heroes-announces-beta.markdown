@@ -29,3 +29,9 @@ His look alone makes him my favorite member of the game's rabbit clan. His weapo
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enter Hargrave, Thunder Earl.<br><br>The Rivals Hero Pack launches in Armello, December 20th. <a href="https://t.co/IpMd70K5P6">pic.twitter.com/IpMd70K5P6</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/938438140485914625?ref_src=twsrc%5Etfw">December 6, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+UPDATE 12/7/17: Oh. My. God. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enter Griotte, Butcher Baroness.<br><br>The Rivals Hero Pack launches in Armello, December 20th. <a href="https://t.co/RdY3vsszKE">pic.twitter.com/RdY3vsszKE</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/938800521271435264?ref_src=twsrc%5Etfw">December 7, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
