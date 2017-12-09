@@ -35,3 +35,9 @@ His look alone makes him my favorite member of the game's rabbit clan. His weapo
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enter Griotte, Butcher Baroness.<br><br>The Rivals Hero Pack launches in Armello, December 20th. <a href="https://t.co/RdY3vsszKE">pic.twitter.com/RdY3vsszKE</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/938800521271435264?ref_src=twsrc%5Etfw">December 7, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+**UPDATE 12/8/17:** If she doesn't attack by wildly spinning her cauldron around in circles, i'll be a bit sad. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enter Yordana, The Devourer.<br><br>The Rivals Hero Pack launches in Armello, December 20th. <a href="https://t.co/FTsk3MFDne">pic.twitter.com/FTsk3MFDne</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/939283703204683776?ref_src=twsrc%5Etfw">December 9, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
