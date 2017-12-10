@@ -11,3 +11,16 @@ Before two days ago I had never heard of [Tha Ltd](http://tha.jp/). Before two d
 And then two days ago I saw this. 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/KTOCv7EMmoI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+I'll be honest. I look at *Humanity* and I see the poignancy of the message that I'm assuming it's trying to convey: that mankind is as beautiful as we are inevitably destructive. Perhaps I'm too cynical to appreciate that sort of clichéd sentiment these days, despite the fact that it's annoyingly true. 
+
+Oh well. 
+
+There's always the visuals and man are they something. It's hard to tell what exactly the game play will entail this early on but I assume getting your crowds of humans from point A to point B will involve use of the environment. The trailer depicts various types of tiles such as ones that beam your humans up into the air or ones that send them flying across empty space onto another platform. Physics definitely seem to come into play but I haven't really seen anything else that would indicate the sort of complexity the original *Lemmings* possessed (i.e. humans having individual abilities that could affect the pathing of the rest of the group). 
+
+But again, it's early. 
+
+Humanity is slated for 2018. You can check out some of Tha Ltd.'s other work right [here](http://tha.jp/works) including a nifty little mobile [game](http://tha.jp/5682)
+
+
+
