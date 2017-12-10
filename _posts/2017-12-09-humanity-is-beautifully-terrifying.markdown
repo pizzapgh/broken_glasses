@@ -22,5 +22,5 @@ But again, it's early.
 
 Humanity is slated for 2018. You can check out some of Tha Ltd.'s other work right [here](http://tha.jp/works) including a nifty little mobile [game](http://tha.jp/5682)
 
-
+![HumanityPV02_Final_ColorUp85.00_00_23_30.Still008.png](/uploads/HumanityPV02_Final_ColorUp85.00_00_23_30.Still008.png)
 
