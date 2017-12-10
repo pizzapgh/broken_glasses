@@ -1,7 +1,7 @@
 ---
 title: Digital Boardgame Armello to Get New Character DLC, Announces Beta
 date: 2017-12-04 03:26:00 Z
-image: "/uploads/Armello_-_Screenshot_04.png"
+image: "/uploads/20170613192015_1.jpg"
 ---
 
 # It's a Super Mutant Quadrupedal Battle Royale! 
