@@ -40,4 +40,10 @@ His look alone makes him my favorite member of the game's rabbit clan. His weapo
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enter Yordana, The Devourer.<br><br>The Rivals Hero Pack launches in Armello, December 20th. <a href="https://t.co/FTsk3MFDne">pic.twitter.com/FTsk3MFDne</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/939283703204683776?ref_src=twsrc%5Etfw">December 9, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+UPDATE 12/10/17: And finally we have Fang, the Exiled. I'd say they saved the best for last but I think that's opposite of the reason they saved him for last. His name is uninspired as is his look. Still very cool regardless but aesthetically, this one strikes me as low effort. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enter Fang, The Exiled.<br><br>The Rivals Hero Pack launches in Armello, December 20th. <a href="https://t.co/PYX9eMxMuT">pic.twitter.com/PYX9eMxMuT</a></p>&mdash; Armello (@ArmelloGame) <a href="https://twitter.com/ArmelloGame/status/940008987088642051?ref_src=twsrc%5Etfw">December 11, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
