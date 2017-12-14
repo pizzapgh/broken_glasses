@@ -10,4 +10,4 @@ I've noticed something lately in entertainment and that's 80's nostalgia seems t
 
 What's funny about the 80s is that if it were a feature film, then over the course of nearly 30 years that film has developed a worldwide cult following despite initially receiving malign criticism (mostly for a poor soundtrack). Speaking for the gaming industry in particular it was a very important decade as it was in 1985 that the Nintendo Entertainment System launched in North America and single handedly revived the market after the video game crash of '83.  
 
-As a result an older generation of gamers now have a soft spot for many a franchise that saw its rise to popularity begin in that era, but newer gamers can still appreciate when game makers draw their inspiration from it. 
+Indie developers have recognized the growing wave of nostalgia spreading across all of entertainment and today I've put together a list of titles currently in development that will appeal to those who wish to ride it. If you're into retro or synthwave, neo-noir, teen comedies, science fiction or cyber punk then there's likely something here for you. 
