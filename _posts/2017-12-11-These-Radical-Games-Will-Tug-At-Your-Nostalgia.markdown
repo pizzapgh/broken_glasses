@@ -17,7 +17,7 @@ Indie developers have recognized the growing wave of nostalgia spreading across 
 ## Vigilance 2099
 **Developer:** [*@NasNakarus*](https://twitter.com/NasNakarus)
 
-**Platform:**  *TBA *
+**Platform:** *TBA*
 
 **Release Date:** *TBA*
 
