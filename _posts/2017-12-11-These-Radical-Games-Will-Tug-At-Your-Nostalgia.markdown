@@ -36,6 +36,11 @@ Based on these WIP clips, that world is off to a good start.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Black Future '88
+**Developer:** [*SuperScarySnake*](http://www.blackfuture88.com/)
+
+**Platform:** *TBA*
+
+**Release Date:** *2018*  
 
  
 
