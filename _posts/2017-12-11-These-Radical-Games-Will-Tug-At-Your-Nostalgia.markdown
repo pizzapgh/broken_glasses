@@ -59,5 +59,6 @@ The developer touts procedural level generation, co-op and the player's ability 
 
 **Release Date:** *TBA*   
 
+> Neon Valley: Revenge is an online shooter with Neo 80s design influence. Full of retro neon-infused graphics and hardcore gameplay features, join the digital frontier of Neon Valley and claim your place at the top! 
  
 
