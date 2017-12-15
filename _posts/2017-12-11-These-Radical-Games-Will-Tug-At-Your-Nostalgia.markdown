@@ -42,5 +42,13 @@ Based on these WIP clips, that world is off to a good start.
 
 **Release Date:** *2018*  
 
+Black Future '88 is a synthpunk roguelike platformer that sees you and a friend climbing a tower in order to kill the owner on the top floor before your heart explodes. 
+
+Ok then. 
+
+The developer touts procedural level generation, co-op and the player's ability to influence the world, thus making the towers more difficult for other people. You can watch the game's trailer below but I'd recommend not doing so more than once. The thing is insane with the jumpcuts and flashes. Jesus. 
+
+<iframe width="752" height="500" src="https://www.youtube.com/embed/Aoq7_2tJP0I" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
  
 
