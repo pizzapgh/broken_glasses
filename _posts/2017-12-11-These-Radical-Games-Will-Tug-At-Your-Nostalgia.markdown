@@ -16,7 +16,7 @@ Indie developers have recognized the growing wave of nostalgia spreading across 
 
 ## Vigilance 2099
 **Developer:** [*@NasNakarus*](https://twitter.com/NasNakarus)
-**Platform: ***TBA*
+**Platform: ** *TBA*
 **Release Date:** *TBA*
 
 This one's only been in development for about a month and is helmed by a single individual, but in that time they've produced some extremely amazing work built in Unreal Engine 4. 
