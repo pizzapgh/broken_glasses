@@ -15,9 +15,9 @@ What's funny about the 80s is that if those years were compiled into a feature f
 Indie developers have recognized the growing wave of nostalgia spreading across all of entertainment and today I've put together a list of titles currently in development that will appeal to those who wish to ride it. If you're into retro or synthwave, neo-noir, teen comedies, science fiction or cyber punk then there's likely something here for you. 
 
 ## Vigilance 2099
-**Developer:** [@NasNakarus](https://twitter.com/NasNakarus)
-**Platform: **TBA
-**Release Date:** TBA
+**Developer:** [*@NasNakarus*](https://twitter.com/NasNakarus)
+**Platform: ***TBA*
+**Release Date:** *TBA*
 
 This one's only been in development for about a month and is helmed by a single individual, but in that time they've produced some extremely amazing work built in Unreal Engine 4. 
 
