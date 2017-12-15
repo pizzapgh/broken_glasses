@@ -13,3 +13,22 @@ I've noticed something lately in entertainment and that's 80's nostalgia seems t
 What's funny about the 80s is that if those years were compiled into a feature film, then over the course of nearly 30 years that film has developed a worldwide cult following despite initially receiving malign criticism (mostly for a poor soundtrack). Speaking for the gaming industry in particular it was a very important decade as it was in 1985 that the Nintendo Entertainment System launched in North America and single handedly revived the market after the video game crash of '83.  
 
 Indie developers have recognized the growing wave of nostalgia spreading across all of entertainment and today I've put together a list of titles currently in development that will appeal to those who wish to ride it. If you're into retro or synthwave, neo-noir, teen comedies, science fiction or cyber punk then there's likely something here for you. 
+
+## Vigilance 2099
+
+This one's only been in development for about a month and is helmed by a single individual, but in that time they've produced some extremely amazing work built in Unreal Engine 4. 
+
+The story is understandably barebones right now. The setup involves the creation and usage of nanotechnology to supress criminal intent with nano chips having been implanted in people worldwide. You play as a detective who witnesses a murder for which you are then framed. Now a government fugitive, you must find the real killer and clear your name. 
+
+As it is right now the story doesn't really delve into territory we haven't explored before, but if it's told within an interesting and properly fleshed out cyberpunk world then gamers could be encouraged to go along for the ride. 
+
+Based on these WIP clips, that world is off to a good start.
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Longer video showcasing the atmosphere <a href="https://twitter.com/hashtag/screenshotsaturday?src=hash&amp;ref_src=twsrc%5Etfw">#screenshotsaturday</a> <a href="https://twitter.com/hashtag/indiedev?src=hash&amp;ref_src=twsrc%5Etfw">#indiedev</a> <a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://twitter.com/hashtag/indiegame?src=hash&amp;ref_src=twsrc%5Etfw">#indiegame</a> <a href="https://twitter.com/hashtag/IndieGameDev?src=hash&amp;ref_src=twsrc%5Etfw">#IndieGameDev</a> <a href="https://twitter.com/hashtag/UE4?src=hash&amp;ref_src=twsrc%5Etfw">#UE4</a> <a href="https://twitter.com/hashtag/cyberpunk?src=hash&amp;ref_src=twsrc%5Etfw">#cyberpunk</a> <a href="https://twitter.com/UnrealEngine?ref_src=twsrc%5Etfw">@UnrealEngine</a> <a href="https://t.co/CoaU3KEHqP">pic.twitter.com/CoaU3KEHqP</a></p>&mdash; Vigilance (@NasNakarus) <a href="https://twitter.com/NasNakarus/status/939649550452699137?ref_src=twsrc%5Etfw">December 10, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Showing the atmosphere, wanted to try a <a href="https://twitter.com/hashtag/bladerunner?src=hash&amp;ref_src=twsrc%5Etfw">#bladerunner</a> feel <a href="https://twitter.com/hashtag/indiedev?src=hash&amp;ref_src=twsrc%5Etfw">#indiedev</a> <a href="https://twitter.com/hashtag/Gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#Gamedev</a> <a href="https://twitter.com/hashtag/ue4?src=hash&amp;ref_src=twsrc%5Etfw">#ue4</a> <a href="https://twitter.com/hashtag/indiegame?src=hash&amp;ref_src=twsrc%5Etfw">#indiegame</a> <a href="https://t.co/B0PRVmmajd">pic.twitter.com/B0PRVmmajd</a></p>&mdash; Vigilance (@NasNakarus) <a href="https://twitter.com/NasNakarus/status/922974174003580928?ref_src=twsrc%5Etfw">October 24, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ 
+
