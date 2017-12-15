@@ -21,7 +21,7 @@ Indie developers have recognized the growing wave of nostalgia spreading across 
 
 **Release Date:** *TBA*
 
-This one's only been in development for about a month and is helmed by a single individual, but in that time they've produced some extremely amazing work built in Unreal Engine 4. 
+This one's only been in [development](https://vigilance-209.manakeep.com/) for about a month and is helmed by a single individual, but in that time they've produced some extremely amazing work built in Unreal Engine 4. 
 
 The story is understandably barebones right now. The setup involves the creation and usage of nanotechnology to supress criminal intent with nano chips having been implanted in people worldwide. You play as a detective who witnesses a murder for which you are then framed. Now a government fugitive, you must find the real killer and clear your name. 
 
@@ -34,6 +34,13 @@ Based on these WIP clips, that world is off to a good start.
 
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Showing the atmosphere, wanted to try a <a href="https://twitter.com/hashtag/bladerunner?src=hash&amp;ref_src=twsrc%5Etfw">#bladerunner</a> feel <a href="https://twitter.com/hashtag/indiedev?src=hash&amp;ref_src=twsrc%5Etfw">#indiedev</a> <a href="https://twitter.com/hashtag/Gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#Gamedev</a> <a href="https://twitter.com/hashtag/ue4?src=hash&amp;ref_src=twsrc%5Etfw">#ue4</a> <a href="https://twitter.com/hashtag/indiegame?src=hash&amp;ref_src=twsrc%5Etfw">#indiegame</a> <a href="https://t.co/B0PRVmmajd">pic.twitter.com/B0PRVmmajd</a></p>&mdash; Vigilance (@NasNakarus) <a href="https://twitter.com/NasNakarus/status/922974174003580928?ref_src=twsrc%5Etfw">October 24, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Black Future '88
+**Developer:** [*SuperScarySnake*](http://www.blackfuture88.com/)
+
+**Platform:** *TBA*
+
+**Release Date:** *2018*  
 
  
 
