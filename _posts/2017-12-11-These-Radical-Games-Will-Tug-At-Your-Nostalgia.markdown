@@ -35,6 +35,7 @@ Based on these WIP clips, that world is off to a good start.
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Showing the atmosphere, wanted to try a <a href="https://twitter.com/hashtag/bladerunner?src=hash&amp;ref_src=twsrc%5Etfw">#bladerunner</a> feel <a href="https://twitter.com/hashtag/indiedev?src=hash&amp;ref_src=twsrc%5Etfw">#indiedev</a> <a href="https://twitter.com/hashtag/Gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#Gamedev</a> <a href="https://twitter.com/hashtag/ue4?src=hash&amp;ref_src=twsrc%5Etfw">#ue4</a> <a href="https://twitter.com/hashtag/indiegame?src=hash&amp;ref_src=twsrc%5Etfw">#indiegame</a> <a href="https://t.co/B0PRVmmajd">pic.twitter.com/B0PRVmmajd</a></p>&mdash; Vigilance (@NasNakarus) <a href="https://twitter.com/NasNakarus/status/922974174003580928?ref_src=twsrc%5Etfw">October 24, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 ## Black Future '88
 **Developer:** [*SuperScarySnake*](http://www.blackfuture88.com/)
 
@@ -49,6 +50,14 @@ Ok then.
 The developer touts procedural level generation, co-op and the player's ability to influence the world, thus making the towers more difficult for other people. You can watch the game's trailer below but I'd recommend not doing so more than once. The thing is insane with the jumpcuts and flashes. Jesus. 
 
 <iframe width="752" height="500" src="https://www.youtube.com/embed/Aoq7_2tJP0I" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+## Neon Valley: Revenge
+**Developer:** [*Daydream Productions*](http://www.daydreamproductions.nl/)
+
+**Platform:** *TBA*
+
+**Release Date:** *TBA*   
 
  
 
