@@ -63,4 +63,11 @@ The developer touts procedural level generation, co-op and the player's ability 
 
 > Governments have won the Cyberwar. Monitoring and restricting users. The dark web is dead. Oppression runs rampant as governments assert dominance and control over free speech. There is no propaganda. There is no sugar-coating this. There is no need when they have won. We work to fuel the system, to keep their corporate structure alive... In return, we are not replaced by machines. 
 
-This is the setup for Daydream Productions' *Neon Valley: Revenge* and I must admit, I was not prepared for the impressive amount of detail 
+This is the setup for Daydream Productions' *Neon Valley: Revenge* and I must admit, I was not prepared for the impressive amount of time and effort that has gone into the game's story and how it's interwoven into game play. 
+
+Discussion of this one requires its own article so I'll simply leave you with some game play footage as well a link to an extensive blog post describing the game's [combat](http://www.daydreamproductions.nl/gameplay/combat-systems/) systems. 
+
+This is a game to look out for and I'll definitely be revisiting it for you guys later. 
+
+<iframe width="643" height="362" src="https://www.youtube.com/embed/4_3CiG1L3SQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
