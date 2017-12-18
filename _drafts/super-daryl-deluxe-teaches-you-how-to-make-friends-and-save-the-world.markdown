@@ -22,7 +22,9 @@ Recently I looked at a title that puts the player in the shoes of an awkward tee
 
 Super Daryl Deluxe is a 2D RPG brawler that tells its story from the perspective of the titular Daryl, an awkward teenager just looking to make friends. The social anxieties that come from being the new kid at school serve as the framework for Daryl's misadventurous attempts to impress his classmates which eventually lead to his involvement in a larger plot of mind control and world domination. With a combat system boasting dozens of skills and passive abilities, you'll slug your way through portals to alternate dimensions, time travel and meet with historical figures and occasionally engage in mono e mono bouts with school personnel. 
 
-The game begins with a bit of exposition, detailing the 1975 graduation of two students from Water Falls High School: Eli Bavarious and Kent Hangarman. As valedictorian and salutatorian respectively, the two boys leave with high honors and come up with a plan to write self help books that will benefit the world and define their legacy. 
+The game begins with a bit of exposition, detailing the 1975 graduation of two students from Water Falls High School: Eli Bavarious and Kent Hangarman. As valedictorian and salutatorian respectively, the two boys leave with high honors and come up with a plan to write self help books that will benefit the world and define their legacy.
+
+ 
 
 Forty years later Kent Hangarman is now principal and Daryl Whitelaw arrives as a new student. He is introduced by Vice Principal Mr. Robatto to students Paul and Alan who, after a somewhat uncomfortable introduction, decide that Daryl's unique propensity for making friends  (or not, rather) makes him a perfect fit as product manager for their Textbook Emporium. It sounds official, but really all they do is steal textbooks and then resell them to the students. The textbook market however has already been cornered by a group of students known as the Trenchcoat Kids who will collectively act as your go-to shop for items in the game but more on that later. 
 
