@@ -14,4 +14,6 @@ If the super hero genre has been Hollywood's darling throughout the twenty-tens,
 
 Highschool was the common theme for a reason. It was a period when our imaginations were rife with thoughts of being someone else; someone better than ourselves. We daydreamed and our dreams took us outside those classroom walls to someplace where we made a difference. Or I suppose what was more likely at the time, someplace anywhere else. These sentiments provided the foundation for the characters in films we love today such as *The Breakfast Club*, *Ferris Bueler's Day Off*, *Risky Business* or *Teen Wolf*. 
 
-Recently I looked at a title that puts the player in the shoes of an awkward teenager who, perhaps unwittingly, acts to save everyone from the schemes of a group bent on global dominion. He'll do so with a bit of anti-social charisma and the willingness to indulge in his imagination and become someone better: a hero. 
+Recently I looked at a title that puts the player in the shoes of an awkward teenager who, perhaps unwittingly, acts to save everyone from the schemes of a group bent on global dominion. He'll do so with a bit of anti-social charisma and the willingness to indulge in his imagination and become someone better: a hero.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/1_UsKaatxRI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> 
