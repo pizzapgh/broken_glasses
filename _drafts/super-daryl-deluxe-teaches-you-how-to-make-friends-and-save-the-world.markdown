@@ -10,4 +10,6 @@ This article is an edited transcript of an earlier [video](https://www.youtube.c
 
 ## The Winning Losers
 
-Throughout the eighties the film industry painted a portrait of what life was like for your average teenager in High School, commonly exaggerating and satirizing the institution as a dull prison encasing the eager imaginations of it's prisoners.  
+If the super hero genre has been Hollywood's darling throughout the twenty-tens, then the eighties belonged to the teen comedy. Hollywood produced dozens of films painting a theatrical portrait of what life was like for the  average teenager in High School, commonly satirizing the institution as a dull prison for the eager imaginations of it's prisoners. The common "click" was established and stories of jocks, emos, cool kids, middle of the roaders and yes, nerds were all told.  
+
+Highschool was the common theme. It's a period when our imaginations are rife with thoughts of being someone else; someone better than ourselves. We daydreamed and our dreams took us outside those classroom walls to someplace where we made a difference. 
