@@ -22,6 +22,6 @@ Recently I looked at a title that puts the player in the shoes of an awkward tee
 
 Super Daryl Deluxe is a 2D RPG brawler that tells its story from the perspective of the titular Daryl, an awkward teenager just looking to make friends. The social anxieties that come from being the new kid at school serve as the framework for Daryl's misadventurous attempts to impress his classmates which eventually lead to his involvement in a larger plot of mind control and world domination. With a combat system boasting dozens of skills and passive abilities, you'll slug your way through portals to alternate dimensions, time travel and meet with historical figures and occasionally engage in mono e mono bouts with school personnel. 
 
-The game begins with a bit of exposition, detailing the 1975 graduation of two students from Water Falls High School: Eli Bavarious and Kent Hangarman. As valedictorian and salutatroan respectively, the two boys leave with high honors and come up with a plan to write self help books that will benefit the world and define their legacy. 
+The game begins with a bit of exposition, detailing the 1975 graduation of two students from Water Falls High School: Eli Bavarious and Kent Hangarman. As valedictorian and salutatorian respectively, the two boys leave with high honors and come up with a plan to write self help books that will benefit the world and define their legacy. 
 
 Forty years later Kent Hangarman is now principal and 
