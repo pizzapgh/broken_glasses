@@ -13,3 +13,5 @@ This article is an edited transcript of an earlier [video](https://www.youtube.c
 Throughout the eighties the film industry painted a portrait of what life was like for your average teenager in High School, commonly exaggerating and satirizing the institution as a dull prison encasing the eager imaginations of it's prisoners.
 
 yep   
+
+balls. 
